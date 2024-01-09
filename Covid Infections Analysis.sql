@@ -1,10 +1,12 @@
+-- Selecting the Covids Death Table
 
 SELECT *
 FROM [Portfolio Project]..CovidDeaths$
 
+-- Selecting the covid vaccinations table
 
---SELECT *
---FROM [Portfolio Project]..[CovidVaccinations$]
+SELECT *
+FROM [Portfolio Project]..[CovidVaccinations$]
 
 --select data that I am going to use
 
