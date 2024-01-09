@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the `COVID-DATA-ANALYSIS-WITH-SQL` repository! This repository contains `script1.sql`, an SQL script designed for comprehensive data exploration and analysis on COVID-19 data. The script covers various aspects such as total deaths vs total cases, total cases vs population, countries with the highest infection rates, highest death count per population, continent-wise analysis, and more.
+Welcome to the `COVID-DATA-ANALYSIS-WITH-SQL` repository! This repository contains `Covid Infections Analysis.sql`, an SQL script designed for comprehensive data exploration and analysis on COVID-19 data. The script covers various aspects such as total deaths vs total cases, total cases vs population, countries with the highest infection rates, highest death count per population, continent-wise analysis, and more.
 
 ## Data Source
 
@@ -10,7 +10,7 @@ The COVID-19 data used for this exploration is sourced from World Health Organiz
 
 ## `script1.sql`: Detailed Insights and Analysis
 
-The SQL script `script1.sql` encompasses the following analyses:
+The SQL script `Covid Infections Analysis.sql` encompasses the following analyses:
 
 - **Total Deaths vs Total Cases**: Analyzes the correlation between total deaths and total confirmed cases.
 - **Total Cases vs Population**: Investigates the relationship between total confirmed cases and the population of countries.
@@ -32,5 +32,5 @@ The SQL script `script1.sql` encompasses the following analyses:
    cd COVID-DATA-ANALYSIS-WITH-SQL
    ```
 
-3. **Run `script1.sql`**: 
+3. **Run `Covid Infections Analysis.sql`**: 
    - Upload the script to Microsoft SQL and run various parts of the script
